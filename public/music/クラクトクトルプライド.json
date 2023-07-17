@@ -1,0 +1,7501 @@
+{
+	"header": {
+		"title": "クラクトリトルプライド",
+		"lyric": "夏川椎菜",
+		"composer": "田淵智也",
+		"arrangement": "HAMA-kgn",
+		"bpm": 180
+	},
+	"body": {
+		"rightNotes": [
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C6"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C6"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C6"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D6"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D6"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C6"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D6"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D6"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C6"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C6"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"F#5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C6"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C6"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C6"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D6"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D6"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C6"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D6"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D6"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C6"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C6"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C6"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"E5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"E5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"E5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"F#5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"E5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"F#5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"F#5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "h"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G4",
+					"B4"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A4",
+					"C5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4",
+					"D5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G4",
+					"B4"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4",
+					"D5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D5",
+					"G5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5",
+					"B5"
+				],
+				"duration": "h"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5",
+					"B5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"F#5",
+					"A5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"E5",
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"F#5",
+					"A5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"E5",
+					"G5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"F#5",
+					"A5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"E5",
+					"G5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4",
+					"D5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"E5",
+					"G5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5",
+					"B5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5",
+					"C6"
+				],
+				"duration": "h"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5",
+					"C6"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5",
+					"B5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"F5",
+					"A5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5",
+					"B5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C6"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D6"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D6"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C6"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C6"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D6"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D6"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C6"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"F#5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"F5",
+					"A5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5",
+					"B4"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5",
+					"C6"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5",
+					"B5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"F#5",
+					"A5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D5",
+					"G5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D5",
+					"F#5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"E5",
+					"G5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"F#5",
+					"A5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4",
+					"D5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B5",
+					"D6"
+				],
+				"duration": "h"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B5",
+					"D6"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"F#5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G4",
+					"B4",
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D4",
+					"G4",
+					"D5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G4",
+					"B4",
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A4",
+					"C5",
+					"A5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G4",
+					"B4",
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D4",
+					"G4",
+					"D5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G4",
+					"B4",
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A4",
+					"C5",
+					"A5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5",
+					"E5",
+					"C6"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4",
+					"D5",
+					"B5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G4",
+					"B4",
+					"G5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A4",
+					"C5",
+					"A5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G4",
+					"B4",
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D4",
+					"G4",
+					"D5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G4",
+					"B4",
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A4",
+					"C5",
+					"A5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G4",
+					"B4",
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D4",
+					"G4",
+					"D5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G4",
+					"B4",
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A4",
+					"C5",
+					"A5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5",
+					"E5",
+					"C6"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4",
+					"D5",
+					"B5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G4",
+					"B4",
+					"G5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5",
+					"B5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5",
+					"C6"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B5",
+					"D6"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B5",
+					"D6"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5",
+					"B5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"F#5",
+					"A5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5",
+					"B5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5",
+					"C6"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B5",
+					"D6"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B5",
+					"D6"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"F#5",
+					"A5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"E5",
+					"G5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C6"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C6"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"F#5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4",
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G4",
+					"D5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4",
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5",
+					"A5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4",
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G4",
+					"D5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4",
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5",
+					"A5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"E5",
+					"C6"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D5",
+					"B5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4",
+					"G5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5",
+					"A5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4",
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G4",
+					"D5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4",
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5",
+					"A5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4",
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G4",
+					"D5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4",
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5",
+					"A5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"E5",
+					"C6"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D5",
+					"B4"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4",
+					"G5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5",
+					"B5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5",
+					"C6"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B5",
+					"D6"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B5",
+					"D6"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5",
+					"B5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"F#5",
+					"A5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5",
+					"B5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5",
+					"C6"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B5",
+					"D6"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B5",
+					"D6"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"F#5",
+					"A5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"E5",
+					"G#5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C6"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D6"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C6"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"F#5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5",
+					"E5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"E5",
+					"G5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5",
+					"C6"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5",
+					"C6"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5",
+					"C6"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5",
+					"B5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5",
+					"C6"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"F4",
+					"B4"
+				],
+				"duration": "w"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"F4",
+					"B4"
+				],
+				"duration": "w"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "w"
+			}
+		],
+		"leftNotes": [
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "w"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "w"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "w"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "w"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "w"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "w"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "w"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "w"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"E5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"E5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"F#5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"F#5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"F#5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"E5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"F#5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"F#5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"F#5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"F#5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "16"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"E5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"E5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"F#5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"E5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"F#5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G#5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "w"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "w"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "w"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "h"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D#5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D#5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"F5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"E5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"F#5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"E5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"E5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"E5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D5"
+				],
+				"duration": "h"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B3"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C4"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D4"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B3"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D4"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G4"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4"
+				],
+				"duration": "h"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A4"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G4"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A4"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G4"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D4"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G4"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "h"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A4"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A4"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A4"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"F#4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G4"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A4"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A4"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G4"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"F#4"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G4"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A4"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D4"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D5"
+				],
+				"duration": "h"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D4"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G4"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G4"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G4",
+					"G5"
+				],
+				"duration": "w"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G4",
+					"G5"
+				],
+				"duration": "h"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D5",
+					"D6"
+				],
+				"duration": "h"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4",
+					"B5"
+				],
+				"duration": "w"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4",
+					"B5"
+				],
+				"duration": "h"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A4"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G4"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G4"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"F#4"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A4"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G4"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A4"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G4"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A4"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G#4"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"A4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"F#4"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D4"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G4"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"E4"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"G4"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"B4"
+				],
+				"duration": "8"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"C5"
+				],
+				"duration": "q"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D5",
+					"B5",
+					"D6"
+				],
+				"duration": "w"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"D5",
+					"B5",
+					"D6"
+				],
+				"duration": "w"
+			},
+			{
+				"clef": "treble",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"scales": [
+					"rest"
+				],
+				"duration": "w"
+			}
+		],
+		"codeNotes": [
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "G",
+				"duration": "w"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "B7",
+				"duration": "w"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "Em7",
+				"duration": "w"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "Dm7/C",
+				"duration": "h"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "G7",
+				"duration": "h"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "Am7",
+				"duration": "h"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "D7(b9)",
+				"duration": "h"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "Bm7",
+				"duration": "h"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "Em7",
+				"duration": "h"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "Am7",
+				"duration": "w"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "G",
+				"duration": "q"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "D/F#",
+				"duration": "q"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "D",
+				"duration": "h"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "G",
+				"duration": "w"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "B7",
+				"duration": "w"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "Em7",
+				"duration": "w"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "Dm7",
+				"duration": "h"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "G7",
+				"duration": "h"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "Am7",
+				"duration": "h"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "D7(b9)",
+				"duration": "h"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "Bm7",
+				"duration": "h"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "Em7",
+				"duration": "h"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "Am7",
+				"duration": "h"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "D7(b9)",
+				"duration": "h"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "G",
+				"duration": "w"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "rest",
+				"duration": "w"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "rest",
+				"duration": "w"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "rest",
+				"duration": "w"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "rest",
+				"duration": "w"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "rest",
+				"duration": "w"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "rest",
+				"duration": "w"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "rest",
+				"duration": "w"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "Am7",
+				"duration": "w"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "D7sus4",
+				"duration": "w"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "Bm7",
+				"duration": "w"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "Bbdim7",
+				"duration": "w"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "Am",
+				"duration": "q"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "Am",
+				"duration": "8"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "Bm",
+				"duration": "q"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "Bm",
+				"duration": "8"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "Cm",
+				"duration": "q"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "Cm",
+				"duration": "8"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "F",
+				"duration": "q"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "F",
+				"duration": "8"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "D#",
+				"duration": "q"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "D#",
+				"duration": "8"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "D",
+				"duration": "8"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "D",
+				"duration": "h"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "D",
+				"duration": "q"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "D",
+				"duration": "q"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "F7(9)",
+				"duration": "w"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "G",
+				"duration": "w"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "rest",
+				"duration": "w"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "Am7",
+				"duration": "w"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "B7",
+				"duration": "w"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "Em7",
+				"duration": "w"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "rest",
+				"duration": "w"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "Dm7",
+				"duration": "w"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "C#m7-5",
+				"duration": "w"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "CM7",
+				"duration": "w"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "Cm/Eb",
+				"duration": "w"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "Bm7",
+				"duration": "w"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "BbmM7",
+				"duration": "w"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "Am7",
+				"duration": "w"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "Bm7",
+				"duration": "w"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "CM7",
+				"duration": "w"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "D",
+				"duration": "w"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "G",
+				"duration": "w"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "B7",
+				"duration": "w"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "Em7",
+				"duration": "w"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "Dm7",
+				"duration": "h"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "G7",
+				"duration": "h"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "Am7",
+				"duration": "h"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "D7(b9)",
+				"duration": "h"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "Bm7",
+				"duration": "h"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "Em7",
+				"duration": "h"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "Am7",
+				"duration": "w"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "D7(b9)",
+				"duration": "w"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "G",
+				"duration": "w"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "B7",
+				"duration": "w"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "Em7",
+				"duration": "w"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "Dm7",
+				"duration": "h"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "G7",
+				"duration": "h"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "Am7",
+				"duration": "h"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "D7(b9)",
+				"duration": "h"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "Bm7",
+				"duration": "h"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "Em7",
+				"duration": "h"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "Am7",
+				"duration": "h"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "D",
+				"duration": "h"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "Bm7",
+				"duration": "h"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "Em7",
+				"duration": "h"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "Am7",
+				"duration": "w"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "Cm",
+				"duration": "w"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "G",
+				"duration": "h"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "F7",
+				"duration": "h"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "Am",
+				"duration": "w"
+			},
+			{
+				"clef": "bass",
+				"keySignature": "G",
+				"timeSignature": "4/4",
+				"code": "G",
+				"duration": "w"
+			}
+		]
+	}
+}
